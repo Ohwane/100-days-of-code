@@ -68,9 +68,9 @@ def ending():
             print("Congratulations! You Win")
         elif mesum()>21:
             if compsum()<=21:
-                print(f"me: {mesum()}")
+                print(f"me: {mesum()}[[
                 print(f"computer: {compsum()}")
-                print("You Lose")
+                print("You Lose")]]")
             else:
                 print(f"me: {mesum()}")
                 print(f"computer: {compsum()}")
