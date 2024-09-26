@@ -11,4 +11,9 @@
 # print(my_screen.canvheight)
 # my_screen.exitonclick()
 # print(timmy)
- 
+
+from prettytable import PrettyTable
+
+table= PrettyTable()
+
+
