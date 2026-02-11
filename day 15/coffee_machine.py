@@ -1,7 +1,7 @@
 # print report
 # check if resources are sufficient 
 # process coins
-# checl if transaction is successful
+# check if transaction is successful
 # make coffee.
 #  starts out with 300 water, 200 milk
 # 100 coffee

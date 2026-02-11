@@ -1,3 +1,5 @@
 {
-    "github-enterprise.uri": "https://firs/"
+    "github-enterprise.uri": "https://firs/",
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
 }
