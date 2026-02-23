@@ -40,9 +40,11 @@ while race_on:
         if i.pos() >= (350,None):
             race_on = False
             if my_bet == i.fillcolor():
+                race_on = False
                 my_screen.textinput(title="Match Result", prompt="Congratulations! Your Turtle won!")
                 print(i.color())
             else:
+                race_on = False
                 my_screen.textinput(title="Match Result", prompt="Whoops! " + i.fillcolor() + " won. Better luck next "
                                                                                               "time!")
                 print(i.color())
